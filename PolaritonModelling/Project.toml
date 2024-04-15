@@ -1,0 +1,4 @@
+name = "PolaritonModelling"
+uuid = "a38467ac-e2cb-471e-b5e8-c2c2edef7fe0"
+authors = ["Nikita <nefedkin@phystech.edu>"]
+version = "0.1.0"
